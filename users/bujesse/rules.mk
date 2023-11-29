@@ -5,4 +5,5 @@ CAPS_WORD_ENABLE = yes
 COMBO_ENABLE = yes
 
 SRC += bujesse.c
-SRC += swapper.c
+SRC += features/swapper.c
+SRC += features/caps_word.c
